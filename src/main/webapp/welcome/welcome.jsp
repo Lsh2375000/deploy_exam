@@ -10,6 +10,7 @@
 	<%@ include file="../inc/menu.jsp"%>
 	<%!String greeting = "Welcome to Web Shopping Mall";
 	String tagline = "Welcome to Web Market!";%>
+	<h1 class="card-title">이수홍</h1>
 	<div class="jumbotron">
 		<div class="container">
 			<h1 class="display-3">
